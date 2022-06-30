@@ -1,0 +1,7 @@
+{
+  "name": "veat_delivery_app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
